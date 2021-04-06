@@ -5953,6 +5953,7 @@ a.close.disabled {
   flex: 0 1 auto;
   width: 30px;
   height: 3px;
+  margin: 25px 0;
   margin-right: 3px;
   margin-left: 3px;
   text-indent: -999px;
