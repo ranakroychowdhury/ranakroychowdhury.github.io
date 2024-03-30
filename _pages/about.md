@@ -116,7 +116,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Context Aware Sensing</b>
+    <b>Context Aware Sensing for IoT</b>
     <br> Worked on two projects: 1) Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System, 2) Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
     </p>
   </div>
