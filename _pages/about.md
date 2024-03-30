@@ -98,7 +98,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__right">
     <p>
     <b>Music Understanding through LLMs</b>
-    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. We take music and task prompts as input and generate text output. Used audio features from Encodec features and an instruction-tuned FLAN-T5 Language Model.
+    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 Language Model.
     </p>
   </div>
   <div class="archive__proj__left">
