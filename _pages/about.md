@@ -26,7 +26,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[February 2024] First ever survey on <b>Large Language Models for Time Series</b> is now available! [<a href="https://arxiv.org/pdf/2402.01801v2.pdf" target="_blank">paper</a>].
+[February 2024] First ever survey on <a href="https://arxiv.org/pdf/2402.01801v2.pdf" target="_blank">Large Language Models for Time Series</a> is now available!
 
 [February 2024] <a href="https://arxiv.org/pdf/2402.18128.pdf" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
 
