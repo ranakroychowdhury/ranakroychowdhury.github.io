@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 [Download](https://ranakroychowdhury.github.io/files/RanakRoyChowdhury_CV2024.pdf)
