@@ -28,6 +28,8 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [February 2024] First ever survey on <b>Large Language Models for Time Series</b> is now available! [<a href="https://arxiv.org/pdf/2402.01801v2.pdf" target="_blank">paper</a>].
 
+[February 2024] <a href="https://arxiv.org/pdf/2402.18128.pdf" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
+
 [September 2023] <a href="https://arxiv.org/pdf/2311.06968.pdf" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
 
 [August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
@@ -54,6 +56,8 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Accent Robust Speech Recognition!
 
+<!-- 
+
 [June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
 
 [June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
@@ -63,8 +67,6 @@ My projects focus on self-supervised learning to build data-efficient and robust
 [October 2021] <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">ESC-GAN: Extending Spatial Coverage of Physical Sensors</a> has been accepted to <b>WSDM</b> '22.
 
 [September 2021] <a href="https://dl.acm.org/doi/10.1145/3485730.3485942" target="_blank">UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</a> has been accepted to <b>SenSys</b> '21. 
-
-<!--
 
 [June 2021] Joined Nokia Bell Labs as a Data Science Intern at the Statistics and Data Science Group.
 
@@ -109,6 +111,25 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 
 <div>
+<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Context Aware Sensing</b>
+    <br> few minutes of data.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/qualcomm.jpg"> 
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div>
 <p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
@@ -128,7 +149,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 	
 <div>
-<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
+<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
