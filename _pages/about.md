@@ -44,9 +44,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 -->
 
-[March 2023] Presented my Thesis Proposal Exam on <a href="https://drive.google.com/file/d/1wz4U6_EXLPbZDnclUo8h7iOt1S-GpvM8/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
+[March 2023] Presented my Thesis Proposal Exam on <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
 
-[February 2023] <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
+[February 2023] <a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
 [November 2022] <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
