@@ -17,9 +17,9 @@ I spent several summers working as an Applied Scientist II Intern at AWS AI, a D
 I'm broadly interested in Data Mining Applications in Human-Centric AI:
 - Human Motion Understanding
 - Health Analytics
-- Speech & Music Processing
+- Audio & Speech Processing
 
-My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data, wearable sensors). During my internships, I have worked on accent robust speech representation learning and natural language reasoning about music through LLMs. To learn more about my projects, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time series (wearable sensors, physiological signals, PPG, ECG, EEG). During my internships, I worked on Music LLMs and accent robust ASR. To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
 
 
 
