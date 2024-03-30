@@ -26,9 +26,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[February 2024] So First ever survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> is now available!
+[February 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> is now available!
 
-[February 2024] <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
+[February 2024] Pre-print <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
 
 [September 2023] <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
 
