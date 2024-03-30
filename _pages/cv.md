@@ -9,4 +9,4 @@ redirect_from:
 
 [Download](https://ranakroychowdhury.github.io/files/RanakRoyChowdhury_CV2024.pdf)
 
-<embed src="https://ranakroychowdhury.github.io/files/RanakRoyChowdhury_Resume2024.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://ranakroychowdhury.github.io/files/RanakRoyChowdhury_CV2024.pdf" type="application/pdf" width="600px" height="500px" />
