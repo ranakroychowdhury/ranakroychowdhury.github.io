@@ -118,6 +118,10 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <p>
     <b>Context Aware Sensing for IoT</b>
     <br> Worked on two projects: 1) Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System, 2) Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    <br><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">paper</a> | 
+    <a href="https://github.com/xiyuanzh/SHARE" target="_blank">code</a> | 
+    <a href="https://drive.google.com/file/d/1glXwQuolXNQRV68Vw0kWSXPLXwihhTwY/view?usp=sharing" target="_blank">slide</a> |
+    <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">package</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -417,7 +421,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">presentation</a>	  
+  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">slide</a>	  
   </p>
 
   <p>
@@ -441,7 +445,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">presentation</a>
+  <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">slide</a>
   </p>
 	
   <p>
@@ -451,7 +455,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1M37W1tHasqmc5pyuc6I7pdBzPVwzWOvW/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">presentation</a>
+  <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">slide</a>
   </p>
   
   <p>
@@ -460,7 +464,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2021.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
   <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
-  <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">presentation</a>
+  <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">slide</a>
   </p>
   
   <p>
@@ -469,7 +473,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Transactions on Data Science (<b>TDS</b>), Volume 1, Issue 2.
   <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a> |
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
+  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">slide</a>
   </p>
   
   <p>
@@ -478,7 +482,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Conference on Data Engineering (<b>ICDE</b>), 2019.
   <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
+  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">slide</a>
   </p>
   
   <p>
@@ -510,7 +514,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/18cw8hkPw5Z2YseDbG9raf2kyEyELoxbF/view?usp=sharing" target="_blank">presentation</a>]</li>
+	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/18cw8hkPw5Z2YseDbG9raf2kyEyELoxbF/view?usp=sharing" target="_blank">slide</a>]</li>
      </ul> 
     </p>
  
@@ -520,7 +524,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">presentation</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">slide</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
      </ul> 
     </p>
  
@@ -534,7 +538,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
-    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slides</a>]</li>
+    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slide</a>]</li>
 	   
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning in IoT Devices". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a>]</li>
   
