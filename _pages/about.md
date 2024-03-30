@@ -30,7 +30,14 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
+
+[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Music LLMs!
+
+<!-- 
+
 [June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi!
+
+-->
 
 [March 2023] Presented my Thesis Proposal Exam on <a href="https://drive.google.com/file/d/1wz4U6_EXLPbZDnclUo8h7iOt1S-GpvM8/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
 
@@ -38,9 +45,11 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [November 2022] <a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
+[October 2022] Started working with the Qualcomm Sensing Machine Learning Team. Thanks to their <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Fellowship</a>.
+
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
 
-[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
+[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Accent Robust Speech Recognition!
 
 [June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
 
