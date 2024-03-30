@@ -111,7 +111,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 
 <div>
-<p style="font-size:20px;"><b>Qualcomm 1 Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -122,7 +122,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/qualcomm1.jpg"> 
+        <img src="https://ranakroychowdhury.github.io/images/qualcomm.jpg"> 
     </div>
   </div>
 </div>
