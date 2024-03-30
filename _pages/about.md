@@ -34,7 +34,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
 
-[August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
+[August 2023] <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
 [June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Music LLMs!
 
@@ -44,7 +44,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 -->
 
-[March 2023] Presented my Thesis Proposal Exam on <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
+[March 2023] Presented my Thesis Proposal Exam on <a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
 
 [February 2023] <a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
