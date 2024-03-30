@@ -371,7 +371,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <h1>Publications</h1>
 
 <div>
-For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=kVPqPVUAAAAJ&hl=en&oi=ao" target="_blank">my Google Scholar profile</a>.</u>
+For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=hTA5EgkAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.</u>
 <br><br>
 </div>
  
