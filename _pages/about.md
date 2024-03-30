@@ -48,7 +48,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [February 2023] <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
-[November 2022] <a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
+[November 2022] <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
 [October 2022] Started working with the Qualcomm Sensing Machine Learning Team. Thanks to their <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Fellowship</a>.
 
@@ -111,7 +111,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 
 <div>
-<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Qualcomm 1 Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -122,7 +122,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/qualcomm.jpg"> 
+        <img src="https://ranakroychowdhury.github.io/images/qualcomm1.jpg"> 
     </div>
   </div>
 </div>
