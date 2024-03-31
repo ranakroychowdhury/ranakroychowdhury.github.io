@@ -275,7 +275,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
+    <b><a href="https://drive.google.com/file/d/1gyGrZ1bNEk8xqmIKV3XKfEIyeL-jg0da/view?usp=sharing" target="_blank">RIoT: Towards Robust Learning for Internet-of-Things</a></b>
     <br>Built a comprehensive evaluation strategy and a model-agnostic training framework to facilitate robustness of machine learning models to missing feature sets in time-series data, achieving a <b>22% improvement</b> in <b>robustness</b>.
     </p>
   </div>
