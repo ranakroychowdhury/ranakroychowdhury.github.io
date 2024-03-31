@@ -533,7 +533,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	
 
 <div id="awards">
-<h1>Honors, Awards, and Volunteer</h1>
+<h1>Awards and Services</h1>
 	
 <div>
   <p>
@@ -543,12 +543,20 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning for Mobile Sensing". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">news</a> | <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">proposal</a>]</li>
   
    <li>Recipient of Travel Award: <b>AAAI 2023, SIGKDD 2022</b></li>
-		   
+
+   <li>Program Committee Member: <b>SIGKDD 2024</b></li>
+
+   <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems </li>
+
+   <li>Mentored 2 UCSD CSE MS students on a research project.</li>
+ 
    <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> to fund investigations in data science, in recognition of my research accomplishments. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">news</a>]</li>
 	   
-   <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support graduate studies.</li>
-    
+   <li>Selected to participate at <b>The Heidelberg Laureate Forum 2020</b>. [<a href="https://drive.google.com/file/d/1XaAv_5FxtP6kUD4W4QHAVtWmlPEVQVjW/view?usp=sharing" target="_blank">certificate</a>]</li>
+   
    <li>Selected to participate at <b>The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019, Saarbrucken, Germany</b>. [<a href="https://drive.google.com/file/d/1aEGd7yUkhA3emmgc8trbxZxS4I8E_CK2/view?usp=sharing" target="_blank">certificate</a>]</li>
+   
+   <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support graduate studies.</li>
 
    <li><b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
   
