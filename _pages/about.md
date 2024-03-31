@@ -567,9 +567,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
-   <li>Program Committee Member: <b>SIGKDD 2024</b></li>
+   <li>Program Committee Member: SIGKDD 2024</li>
 
-   <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems </li>
+   <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems</li>
 
    <li>Mentored 2 UCSD CSE MS students on a research project.</li>
   
