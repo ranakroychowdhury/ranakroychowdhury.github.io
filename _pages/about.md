@@ -544,7 +544,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
    <li>Recipient of Travel Award: <b>AAAI 2023, SIGKDD 2022</b></li>
  
-   <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> to fund investigations in data science, in recognition of my research accomplishments. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">news</a>]</li>
+   <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> to fund investigations in data science, in recognition of my research accomplishments. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">news</a>]</li>
 	   
    <li>Selected to participate at <b>The Heidelberg Laureate Forum 2020</b>. [<a href="https://drive.google.com/file/d/1XaAv_5FxtP6kUD4W4QHAVtWmlPEVQVjW/view?usp=sharing" target="_blank">certificate</a>]</li>
    
