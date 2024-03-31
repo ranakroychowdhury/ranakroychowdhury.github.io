@@ -533,14 +533,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	
 
 <div id="awards">
-<h1>Honors and Awards</h1>
+<h1>Honors, Awards, and Volunteer</h1>
 	
 <div>
   <p>
    <ul>
-    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slide</a>]</li>
+    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">slide</a>]</li>
 	   
-    <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">news</a> | <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">proposal</a>]</li>
+    <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning for Mobile Sensing". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">news</a> | <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">proposal</a>]</li>
   
    <li>Recipient of Travel Award: <b>AAAI 2023, SIGKDD 2022</b></li>
 		   
@@ -548,7 +548,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	   
    <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support graduate studies.</li>
     
-   <li>Selected to participate at <b>The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019, Saarbrucken, Germany</b>. [<a href="https://cmmrs2019.mpi-sws.org/" target="_blank">news</a>]</li>
+   <li>Selected to participate at <b>The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019, Saarbrucken, Germany</b>. [<a href="https://drive.google.com/file/d/1aEGd7yUkhA3emmgc8trbxZxS4I8E_CK2/view?usp=sharing" target="_blank">certificate</a>]</li>
 
    <li><b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
   
