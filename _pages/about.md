@@ -19,14 +19,14 @@ I'm broadly interested in Data Mining Applications in Human-Centric AI:
 - Health Analytics
 - Audio & Speech Processing
 
-My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time series (wearable sensors, physiological signals, PPG, ECG, EEG). During my internships, I worked on Music LLMs and Accent Robust Speech Recognition. To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time series (wearable sensors, physiological signals, PPG, ECG, EEG). During my internships, I worked on Music LLMs and Accent Robust Speech Recognition. To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
 
 
 
 
 <h1>Latest News</h1>
 
-[February 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> is now available!
+[February 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> is now available.
 
 [February 2024] Pre-print <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
 
@@ -36,15 +36,15 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [August 2023] <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
-[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Music LLMs!
+[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Music LLMs.
 
 <!-- 
 
-[June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi!
+[June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi.
 
 -->
 
-[March 2023] Presented my Thesis Proposal on <a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
+[March 2023] Presented my Thesis Proposal on <a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy. 
 
 [February 2023] <a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
@@ -52,15 +52,15 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [October 2022] Started working with the Qualcomm Sensing Machine Learning Team. Thanks to their <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Fellowship</a>.
 
-[August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
+[August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Robust Machine Learning for Mobile Sensing</a>.
 
-[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Accent Robust Speech Recognition!
+[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Accent Robust Speech Recognition.
 
 <!-- 
 
-[June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
+[June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD.
 
-[June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
+[June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing">Learning Across Irregular and Asynchronous Time Series</a>.
 
 [May 2022] <a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a> has been accepted to <b>SIGKDD</b> '22.
 
@@ -76,13 +76,13 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [August 2019] Attended The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019 at Saarbrücken, Germany.
 
-[June 2019] Won the <a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award</a>!
+[June 2019] Won the <a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award</a>.
 
 [February 2019] <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Real Time Principal Component Analysis</a> has been accepted to ICDE '19.
 
-[October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET!
+[October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET.
 
-[October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>!
+[October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>.
 
 -->
 
@@ -205,7 +205,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
+    <b><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
     <br>Crafted a self-supervised pretraining method for irregular, asynchronous time-series through sampling density-aware contrastive learning and time-sensitive data reconstruction techniques, improving few-shot downstream performance.
     </p>
   </div>
@@ -261,7 +261,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://arxiv.org/abs/2301.03462" target="_blank">Modeling Label Semantics Improves Activity Recognition</a></b>
+    <b><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a></b>
     <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
     </p>
   </div>
