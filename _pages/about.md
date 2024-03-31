@@ -533,7 +533,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	
 
 <div id="awards">
-<h1>Awards and Services</h1>
+<h1>Honors & Awards</h1>
 	
 <div>
   <p>
@@ -563,7 +563,27 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    </ul>
   </p>
 </div>
+
+
+
+
+<div id="services">
+<h1>Services</h1>
 	
+<div>
+  <p>
+   <ul>
+   <li>Program Committee Member: <b>SIGKDD 2024</b></li>
+
+   <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems </li>
+
+   <li>Mentored 2 UCSD CSE MS students on a research project.</li>
+  
+   </ul>
+  </p>
+</div>
+
+
 	
 	
 <div id="skills">
