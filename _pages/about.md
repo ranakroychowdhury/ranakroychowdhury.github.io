@@ -50,9 +50,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [November 2022] <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
-[October 2022] Started working with the Qualcomm Sensing Machine Learning Team. Thanks to their <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Fellowship</a>.
+[October 2022] Started working with the Qualcomm Sensing Machine Learning Team.
 
-[August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Robust Machine Learning for Mobile Sensing</a>.
+[August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2022</a> for our proposal on <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Robust Machine Learning for Mobile Sensing</a>.
 
 [June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on Accent Robust Speech Recognition.
 
