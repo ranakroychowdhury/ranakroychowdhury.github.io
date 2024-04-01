@@ -99,6 +99,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <p>
     <b>Music Understanding through LLMs</b>
     <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 Language Model.
+    <br> <a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -120,7 +121,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <br> Worked on two projects: 1) Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System, 2) Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
     <br> 1) PILOT: <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">paper</a> | 
     <a href="https://github.com/xiyuanzh/SHARE" target="_blank">code</a> | 
-    <a href="https://drive.google.com/file/d/1glXwQuolXNQRV68Vw0kWSXPLXwihhTwY/view?usp=sharing" target="_blank">slide</a> |
+    <a href="https://drive.google.com/file/d/1glXwQuolXNQRV68Vw0kWSXPLXwihhTwY/view?usp=sharing" target="_blank">Slide</a> |
     <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">package</a>
     <br> 2) ZeroHAR: Coming Soon
     </p>
@@ -140,8 +141,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Accent Robust Speech Pre-Training</b>
+    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
+    <br> <a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -161,6 +163,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <p>
     <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
     <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
+    <br> <a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -183,7 +186,8 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <br><a href="https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/" target="_blank">Preview</a> | 
     <a href="https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/" target="_blank">Press Release</a> | 
     <a href="https://aws.amazon.com/blogs/aws/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/" target="_blank">Blog</a> |
-    <a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Documentation</a>
+    <a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Documentation</a> |
+    <a href="https://drive.google.com/file/d/1e3QTifTlU5NSxTqWGnoqKHW8te_6CR3x/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -422,7 +426,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">slide</a>	  
+  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">Slide</a>	  
   </p>
 
   <p>
@@ -446,7 +450,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">slide</a>
+  <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
   <p>
@@ -456,7 +460,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1M37W1tHasqmc5pyuc6I7pdBzPVwzWOvW/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">slide</a>
+  <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
@@ -465,7 +469,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2021.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
   <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
-  <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">slide</a>
+  <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
@@ -474,7 +478,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Transactions on Data Science (<b>TDS</b>), Volume 1, Issue 2.
   <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a> |
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">slide</a>
+  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
@@ -483,7 +487,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Conference on Data Engineering (<b>ICDE</b>), 2019.
   <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">slide</a>
+  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
@@ -505,7 +509,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Data Mining</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">slide</a>]</li>
+	<li>Thesis: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
 
@@ -515,7 +519,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1E67fkHEEvIEiaFMp2Bdc2Ewm_j63dK5H/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing" target="_blank">slide</a>]</li>
+	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1E67fkHEEvIEiaFMp2Bdc2Ewm_j63dK5H/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
@@ -525,7 +529,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">slide</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">poster</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">poster</a>]</li>
      </ul> 
     </p>
  
@@ -539,7 +543,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
-    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">slide</a>]</li>
+    <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">Slide</a>]</li>
 	   
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning for Mobile Sensing". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">news</a> | <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">proposal</a>]</li>
   
