@@ -223,6 +223,104 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
+    <b><a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series: A Survey</a></b>
+    <br>Pioneered the first survey on how LLMs can solve time-series tasks through prompting, time-series quantization, alignment of time-series with text, using vision as bridge, and using LLMs as output tools.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/llm_time.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
+    <br>Innovated a Zero-Shot Wearable Human Activity Recognition framework that integrates contextual knowledge about activities from LLMs and sensory environment information to improve <b>Zero-Shot F1 Score</b> by <b>20%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/zerohar.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a></b>
+    <br>Developed a Multi-level Optimized Mask Autoencoder that improves image classification by integrating model pretraining with fine-tuning to allow fine-tuning performance guide an optimal masking strategy for pretraining.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/mlo_mae.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</a></b>
+    <br>Established a physics-informed data denoising scheme that integrates physics equations as constraints into training loss, ensuring the cleaned data complies with fundamental physical constraints, thereby improving data quality.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/pilot.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a></b>
+    <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/semanticHAR.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM: Solving Music Tasks with Text Prompts</a></b>
+    <br>Developed an LLM with music integration that generates text responses, including music genre, instruments used, mood, and theme, based on music files. Used Encodec audio features in conjunction with FLAN-T5 LLM.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/music_llm.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
+    <br> Crafted a time-series data augmentation strategy that incorporates both time- and frequency-domain knowledge through mix-up and Empirical Mode Decomposition, respectively, <b>improving time-series forecasting</b> by <b>10.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/spa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
     <b><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
     <br>Crafted a self-supervised pretraining method for irregular, asynchronous time-series through sampling density-aware contrastive learning and time-sensitive data reconstruction techniques, improving few-shot downstream performance.
     </p>
@@ -233,7 +331,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
     </div>
   </div>
 </div>
-  
+
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -244,6 +342,20 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__left">
     <div>
         <img  src="https://ranakroychowdhury.github.io/images/tarnet.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/mars.png"> 
     </div>
   </div>
 </div>
@@ -279,13 +391,13 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a></b>
-    <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
+    <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
+    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
     </p>
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="https://ranakroychowdhury.github.io/images/semanticHAR.png"> 
+        <img  src="https://ranakroychowdhury.github.io/images/automated_ticket_resolution.png"> 
     </div>
   </div>
 </div>
@@ -307,13 +419,13 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
-    <br> Crafted a time-series data augmentation strategy that incorporates both time- and frequency-domain knowledge through mix-up and Empirical Mode Decomposition, respectively, <b>improving time-series forecasting</b> by <b>10.7%</b>.
+    <b><a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Model Explainability for Redshift ML</a></b>
+    <br>Built a SHAP-based Explainability tool for AWS Redshift ML, enabling users to write SQL queries to introspect model predictions. <b>Improved execution speed</b> by <b>2x</b> and <b>reduced memory footprint</b> by <b>90%</b> over existing workflow in AWS Sagemaker. 
     </p>
   </div>
   <div class="archive__proj__left">
     <div>
-        <img  src="https://ranakroychowdhury.github.io/images/spa.png"> 
+        <img  src="https://ranakroychowdhury.github.io/images/explainable_ai.png"> 
     </div>
   </div>
 </div>
@@ -331,50 +443,6 @@ My projects focus on self-supervised learning to build data-efficient and robust
     </div>
   </div>
 </div>
-
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
-    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="https://ranakroychowdhury.github.io/images/mars.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
-    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="https://ranakroychowdhury.github.io/images/automated_ticket_resolution.png"> 
-    </div>
-  </div>
-</div>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b><a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Model Explainability for Redshift ML</a></b>
-    <br>Built a SHAP-based Explainability tool for AWS Redshift ML, enabling users to write SQL queries to introspect model predictions. <b>Improved execution speed</b> by <b>2x</b> and <b>reduced memory footprint</b> by <b>90%</b> over existing workflow in AWS Sagemaker. 
-    </p>
-  </div>
-  <div class="archive__proj__left">
-    <div>
-        <img  src="https://ranakroychowdhury.github.io/images/explainable_ai.png"> 
-    </div>
-  </div>
-</div>
-
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -542,7 +610,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a>]</li>
      </ul> 
     </p>
  
