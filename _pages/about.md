@@ -182,7 +182,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <br><a href="https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/" target="_blank">Preview</a> | 
     <a href="https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/" target="_blank">Press Release</a> | 
     <a href="https://aws.amazon.com/blogs/aws/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/" target="_blank">Blog</a> |
-    <a href="https://docs.aws.amazon.com/redshift/latest/dg/machine_learning.html" target="_blank">Documentation</a>
+    <a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Documentation</a>
     </p>
   </div>
   <div class="archive__proj__left">
