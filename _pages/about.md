@@ -198,6 +198,27 @@ My projects focus on self-supervised learning to build data-efficient and robust
 </div>
 </div>
 	
+<div>
+<p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Real-Time Principal Component Analysis</b>
+    <br>Innovated a data dimensionality reduction algorithm for streaming data, that uses a data-driven heuristic to learn a robust, noise-resilient eigenspace. Algorithm proven by spectral analysis and Bhattacharyya Distance.
+    <br> <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Conference</a> | 
+    <a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">Journal</a> | 
+    <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> |
+    <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/buet.png"> 
+    </div>
+  </div>
+</div>
+</div>
 
 </div>
 
