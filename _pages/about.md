@@ -318,7 +318,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
+    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
     </p>
   </div>
