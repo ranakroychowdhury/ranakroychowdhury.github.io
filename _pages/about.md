@@ -98,7 +98,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__right">
     <p>
     <b>Music Understanding through LLMs</b>
-    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 Language Model. <a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>
+    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 Language Model. [<a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
@@ -118,10 +118,10 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <p>
     <b>Context Aware Sensing for IoT</b>
     <br> Worked on two projects: 1) Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System, 2) Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
-    <br> 1) PILOT: <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">paper</a> | 
-    <a href="https://github.com/xiyuanzh/SHARE" target="_blank">code</a> | 
+    <br> 1) PILOT: <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Paper</a> | 
+    <a href="https://github.com/xiyuanzh/SHARE" target="_blank">Code</a> | 
     <a href="https://drive.google.com/file/d/1glXwQuolXNQRV68Vw0kWSXPLXwihhTwY/view?usp=sharing" target="_blank">Slide</a> |
-    <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">package</a>
+    <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">Package</a>
     <br> 2) ZeroHAR: Coming Soon
     </p>
   </div>
@@ -141,7 +141,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__right">
     <p>
     <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
-    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data. <a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Slide</a>
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data. [<a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
@@ -160,7 +160,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__right">
     <p>
     <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
-    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification. <a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Slide</a>
+    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification. [<a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
