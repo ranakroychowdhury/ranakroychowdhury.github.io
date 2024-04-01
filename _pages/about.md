@@ -118,11 +118,11 @@ My projects focus on self-supervised learning to build data-efficient and robust
     <p>
     <b>Context Aware Sensing for IoT</b>
     <br> Worked on two projects: 1) Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System, 2) Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
-    1) PILOT: <br><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">paper</a> | 
+    <br> 1) PILOT: <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">paper</a> | 
     <a href="https://github.com/xiyuanzh/SHARE" target="_blank">code</a> | 
     <a href="https://drive.google.com/file/d/1glXwQuolXNQRV68Vw0kWSXPLXwihhTwY/view?usp=sharing" target="_blank">slide</a> |
     <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">package</a>
-    2) ZeroHAR: Coming Soon
+    <br> 2) ZeroHAR: Coming Soon
     </p>
   </div>
   <div class="archive__proj__left">
