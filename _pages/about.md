@@ -289,7 +289,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
+    <b><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
     <br> Crafted a time-series data augmentation strategy that incorporates both time- and frequency-domain knowledge through mix-up and Empirical Mode Decomposition, respectively, <b>improving time-series forecasting</b> by <b>10.7%</b>.
     </p>
   </div>
@@ -303,7 +303,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/1uPpRJZOu-skpLsXmv_fCwRiKdxODPRlZ/view?usp=sharing" target="_blank">Generating Rationale in Visual Question Answering</a></b>
+    <b><a href="https://drive.google.com/file/d/1cghzLzsO0Z1Ci2JLJWJVQHtLS6-eJIKT/view?usp=sharing" target="_blank">Generating Rationale in Visual Question Answering</a></b>
     <br>Developed a model that generates a rationale behind selecting a multiple choice answer in visual question answering. Trained a joint visual-linguistic model to build multimodal image- and text-representation and a GPT-2 model to generate text.
     </p>
   </div>
@@ -318,7 +318,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Accent Robust Speech Pre-Training</b>
+    <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
     </p>
   </div>
@@ -346,7 +346,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Model Explainability from SQL Surface for Redshift ML</b>
+    <b><a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Model Explainability for Redshift ML</a></b>
     <br>Built a SHAP-based Explainability tool for AWS Redshift ML, enabling users to write SQL queries to introspect model predictions. <b>Improved execution speed</b> by <b>2x</b> and <b>reduced memory footprint</b> by <b>90%</b> over existing workflow in AWS Sagemaker. 
     </p>
   </div>
