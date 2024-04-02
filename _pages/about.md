@@ -97,7 +97,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Music Understanding through LLMs</b>
+    <b>Music LLM: Music Understanding with LLMs</b>
     <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 LLM. [<a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
@@ -135,7 +135,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
+    <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data. [<a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
@@ -251,7 +251,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a></b>
+    <b><a href="https://arxiv.org/abs/2402.18128" target="_blank">MLO-MAE: Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a></b>
     <br>Developed a Multi-level Optimized Mask Autoencoder that improves image classification by integrating model pretraining with fine-tuning to allow fine-tuning performance guide an optimal masking strategy for pretraining.
     </p>
   </div>
@@ -279,7 +279,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a></b>
+    <b><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">SHARE: Unleashing the Power of Shared Label Structures for Human Activity Recognition</a></b>
     <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
     </p>
   </div>
@@ -293,7 +293,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM: Solving Music Tasks with Text Prompts</a></b>
+    <b><a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM: Music Understanding with LLMs</a></b>
     <br>Developed an LLM with music integration that generates text responses, including music genre, instruments used, mood, and theme, based on music files. Used Encodec audio features in conjunction with FLAN-T5 LLM.
     </p>
   </div>
@@ -307,7 +307,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
+    <b><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">STAug: Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a></b>
     <br> Crafted a time-series data augmentation strategy that incorporates both time- and frequency-domain knowledge through mix-up and Empirical Mode Decomposition, respectively, <b>improving time-series forecasting</b> by <b>10.7%</b>.
     </p>
   </div>
@@ -349,7 +349,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Multitask Pre-training for Accent Robust Speech Recognition</b>
+    <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
     </p>
   </div>
@@ -498,30 +498,54 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <br><br>
 </div>
  
+
+llm-time
+
+zerohar
+
+mlo-mae
+
+musicllm 
+mars
   
 <div>
+ 
+  <p>
+  <b>PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</b>
+  <br>Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, <b>Ranak Roy Chowdhury</b>, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang, Rajesh Gupta
+  <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2023.
+  <br><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Paper</a> |        
+  <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>	  
+  </p>
+
   <p>
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
   <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023. [Travel Grant]
   <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">Paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">Code</a> | 
-  <a href="" target="_blank">Poster</a> |         
-  <a href="" target="_blank">Slide</a>	  
+  <a href="https://drive.google.com/file/d/1tC1NpU7yfLVjccPzRZtRyA94oUZrViVg/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1n2_nQQgSp4_8UKcQDnyYsINzWiI8llhl/view?usp=sharing" target="_blank">Slide</a>	  
   </p>
 
   <p>
-  <b>Unleashing the Power of Shared Label Structures for Human Activity Recognition</b>
+  <b>SHARE: Unleashing the Power of Shared Label Structures for Human Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br>Conference on Information and Knowledge Management (<b>CIKM</b>), 2023.
-  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Paper</a>
+  <br><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Paper</a> |
+  <a href="https://github.com/xiyuanzh/SHARE" target="_blank">Code</a> | 
+  <a href="https://drive.google.com/file/d/1N72H71mb0hSO9bL9iyrIJsHB0N2-J4jG/view?usp=sharing" target="_blank">Slide</a> |         
+  <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">Package</a>
   </p>
   
   <p>
-  <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
+  <b>STAug: Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
   <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
   <br><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Paper</a> 
+  <a href="https://github.com/xiyuanzh/STAug" target="_blank">Code</a> | 
+  <a href="https://drive.google.com/file/d/13eT23QL_QhrDAnqfVJYkvlQdm0O-K5q-/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1CrkgRWeQXAd6-HxT3nNpr9fhtJZw5dph/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
   <p>
@@ -530,7 +554,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>SIGKDD Conference On Knowledge Discovery and Data Mining (<b>SIGKDD</b>), 2022. [Travel Grant]
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">Paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/preview" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/iew?usp=sharing" target="_blank">Poster</a> |         
   <a href="https://drive.google.com/file/d/1blf6cZt1DKrImxcklL6DurKpHoAYrnT-/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
