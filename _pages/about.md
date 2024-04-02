@@ -504,77 +504,78 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
   <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023. [Travel Grant]
-  <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">paper</a> | 
-  <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
-  <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">Slide</a>	  
+  <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">Paper</a> | 
+  <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">Code</a> | 
+  <a href="" target="_blank">Poster</a> |         
+  <a href="" target="_blank">Slide</a>	  
   </p>
 
   <p>
   <b>Unleashing the Power of Shared Label Structures for Human Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br>Conference on Information and Knowledge Management (<b>CIKM</b>), 2023.
-  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">paper</a>
+  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Paper</a>
   </p>
   
   <p>
   <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
   <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
-  <br><a href="https://arxiv.org/pdf/2303.14254.pdf" target="_blank">paper</a> 
+  <br><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Paper</a> 
   </p>
 	
   <p>
   <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
   <br><b>Ranak Roy Chowdhury</b>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
   <br>SIGKDD Conference On Knowledge Discovery and Data Mining (<b>SIGKDD</b>), 2022. [Travel Grant]
-  <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
-  <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
-  <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">Slide</a>
+  <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">Paper</a> | 
+  <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">Code</a> | 
+  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/preview" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1blf6cZt1DKrImxcklL6DurKpHoAYrnT-/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
   <p>
   <b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
   <br>International Conference on Web Search and Data Mining (<b>WSDM</b>), 2022.
-  <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
-  <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
-  <a href="https://drive.google.com/file/d/1M37W1tHasqmc5pyuc6I7pdBzPVwzWOvW/view?usp=sharing" target="_blank">poster</a> |         
-  <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">Slide</a>
+  <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">Paper</a> | 
+  <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">Code</a> | 
+  <a href="https://drive.google.com/file/d/1hMtWG49sRhMQY3pfmUtFYmY-xklvsAZQ/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1LZ4tliDVRVZiYEzwMTKcNxGCN9_z6SZg/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
   <b>UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</b>
   <br>Shuheng Li, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
   <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2021.
-  <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
-  <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
-  <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">Slide</a>
+  <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">Paper</a> | 
+  <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">Code</a> |        
+  <a href="https://drive.google.com/file/d/179RSSjAUalQp4GLhEniFhuTk3k6O9JaL/view?usp=sharing" target="_blank">Slide</a>
+  </p>
+
+  <p>
+  <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
+  <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
+  <br><em>[under submission]</em>
+  <br><a href="https://drive.google.com/file/d/1gyGrZ1bNEk8xqmIKV3XKfEIyeL-jg0da/view?usp=sharing" target="_blank">Paper</a> 
   </p>
   
   <p>
   <b>Real-Time Principal Component Analysis</b>
   <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
   <br>Transactions on Data Science (<b>TDS</b>), Volume 1, Issue 2.
-  <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a> |
-  <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">Slide</a>
+  <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">Paper</a> |
+  <a href="https://drive.google.com/file/d/12rcm2VGlmSzf9Vj0NF9uOiSIKWqE8W4l/view?usp=sharing" target="_blank">Poster</a> |        
+  <a href="https://drive.google.com/file/d/1wad8BpDeXaU-T6N32WlYjoWL5h1irAjc/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
   <b>Real-Time Principal Component Analysis</b>
   <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
   <br>International Conference on Data Engineering (<b>ICDE</b>), 2019.
-  <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
-  <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
-  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">Slide</a>
-  </p>
-  
-  <p>
-  <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
-  <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><em>[under submission]</em>
+  <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | 
+  <a href="https://drive.google.com/file/d/12rcm2VGlmSzf9Vj0NF9uOiSIKWqE8W4l/view?usp=sharing" target="_blank">Poster</a> |        
+  <a href="https://drive.google.com/file/d/1wad8BpDeXaU-T6N32WlYjoWL5h1irAjc/view?usp=sharing" target="_blank">Slide</a>
   </p>
 
 </div>
