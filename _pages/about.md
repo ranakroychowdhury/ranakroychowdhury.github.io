@@ -349,7 +349,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
+    <b><a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">MARS: Multitask Pre-training for Accent Robust Speech Recognition</a></b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
     </p>
   </div>
@@ -391,7 +391,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
+    <b><a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Automated Ticket Resolution from Semi-Structured Log Data</a></b>
     <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
     </p>
   </div>
