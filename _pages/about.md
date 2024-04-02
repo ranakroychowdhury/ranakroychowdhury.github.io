@@ -580,7 +580,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>SIGKDD Conference On Knowledge Discovery and Data Mining (<b>SIGKDD</b>), 2022. [Travel Grant]
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">Paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/iew?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/view?usp=sharing" target="_blank">Poster</a> |         
   <a href="https://drive.google.com/file/d/1blf6cZt1DKrImxcklL6DurKpHoAYrnT-/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
