@@ -523,6 +523,12 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://arxiv.org/abs/2402.18128" target="_blank">Paper</a> |        
   <a href="https://github.com/Alexiland/MLOMAE" target="_blank">Code</a>	  
   </p>
+
+  <p>
+  <b>MusicLLM: Music Understanding with LLMs</b>
+  <br><b>Ranak Roy Chowdhury</b>, Rohit Paturi, Sundararajan Srinivasan 
+  <br><em>[Under Preparation]</em>
+  </p>
   
   <p>
   <b>PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</b>
@@ -550,6 +556,12 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <a href="https://github.com/xiyuanzh/SHARE" target="_blank">Code</a> | 
   <a href="https://drive.google.com/file/d/1N72H71mb0hSO9bL9iyrIJsHB0N2-J4jG/view?usp=sharing" target="_blank">Slide</a> |         
   <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">Package</a>
+  </p>
+
+  <p>
+  <b>MARS: Self-supervised Multi Task Pre-training for Accent Robust Speech Representation.</b>
+  <br><b>Ranak Roy Chowdhury</b>, Anshu Bhatia, Haoqi Li, Srikanth Ronanki, Sundararajan Srinivasan
+  <br><em>[Under Submission]</em>
   </p>
   
   <p>
