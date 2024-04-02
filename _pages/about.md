@@ -542,7 +542,7 @@ mars
   <b>STAug: Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
   <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
-  <br><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Paper</a> 
+  <br><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Paper</a> |
   <a href="https://github.com/xiyuanzh/STAug" target="_blank">Code</a> | 
   <a href="https://drive.google.com/file/d/13eT23QL_QhrDAnqfVJYkvlQdm0O-K5q-/view?usp=sharing" target="_blank">Poster</a> |         
   <a href="https://drive.google.com/file/d/1CrkgRWeQXAd6-HxT3nNpr9fhtJZw5dph/view?usp=sharing" target="_blank">Slide</a>
