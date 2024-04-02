@@ -497,19 +497,33 @@ My projects focus on self-supervised learning to build data-efficient and robust
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=hTA5EgkAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.</u>
 <br><br>
 </div>
- 
 
-llm-time
 
-zerohar
-
-mlo-mae
-
-musicllm 
-mars
   
 <div>
- 
+
+  <p> 
+  <b>Large Language Models for Time Series: A Survey</b>
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Jingbo Shang
+  <br><em>[Under Submission]</em>
+  <br><a href="https://arxiv.org/abs/2402.01801" target="_blank">Paper</a> |        
+  <a href="https://github.com/xiyuanzh/awesome-llm-time-series" target="_blank">Code</a>	  
+  </p>
+  
+  <p> 
+  <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
+  <br><b>Ranak Roy Chowdhury</b>, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br><em>[Under Submission]</em>  
+  </p>
+  
+  <p> 
+  <b>MLO-MAE: Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</b>
+  <br>Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Pengtao Xie
+  <br><em>[Under Submission]</em>
+  <br><a href="https://arxiv.org/abs/2402.18128" target="_blank">Paper</a> |        
+  <a href="https://github.com/Alexiland/MLOMAE" target="_blank">Code</a>	  
+  </p>
+  
   <p>
   <b>PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</b>
   <br>Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, <b>Ranak Roy Chowdhury</b>, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang, Rajesh Gupta
@@ -580,7 +594,7 @@ mars
   <p>
   <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
   <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><em>[under submission]</em>
+  <br><em>[Under Submission]</em>
   <br><a href="https://drive.google.com/file/d/1gyGrZ1bNEk8xqmIKV3XKfEIyeL-jg0da/view?usp=sharing" target="_blank">Paper</a> 
   </p>
   
