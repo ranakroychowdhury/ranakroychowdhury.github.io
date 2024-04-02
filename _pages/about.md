@@ -661,7 +661,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
