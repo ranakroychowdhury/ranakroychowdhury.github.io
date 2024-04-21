@@ -26,7 +26,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[February 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> is now available.
+[April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted at <b>IJCAI</b> '24.
 
 [February 2024] Pre-print <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
 
@@ -505,7 +505,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p> 
   <b>Large Language Models for Time Series: A Survey</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Jingbo Shang
-  <br><em>[Under Submission]</em>
+  <br>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024.
   <br><a href="https://arxiv.org/abs/2402.01801" target="_blank">Paper</a> |        
   <a href="https://github.com/xiyuanzh/awesome-llm-time-series" target="_blank">Code</a>	  
   </p>
