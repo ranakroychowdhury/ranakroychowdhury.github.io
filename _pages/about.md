@@ -14,6 +14,8 @@ Don't like this problem.
 
 Why won't it update? what's the issue?
 
+It's not happening. I'm frustrated with you.
+
 I spent several summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
 
 <h2>Research Interests</h2>
