@@ -30,7 +30,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [February 2024] Pre-print <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
 
-[September 2023] <a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
+[September 2023] <a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
 
 [August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
 
@@ -117,7 +117,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
   <div class="archive__proj__right">
     <p>
     <b>Context Aware Learning for IoT</b>
-    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
     </p>
   </div>
   <div class="archive__proj__left">
@@ -265,7 +265,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</a></b>
+    <b><a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</a></b>
     <br>Established a physics-informed data denoising scheme that integrates physics equations as constraints into training loss, ensuring the cleaned data complies with fundamental physical constraints, thereby improving data quality.
     </p>
   </div>
@@ -534,7 +534,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <b>PILOT: Physics-Informed Data Denoising for Real-Life Sensing Systems</b>
   <br>Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, <b>Ranak Roy Chowdhury</b>, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang, Rajesh Gupta
   <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2023.
-  <br><a href="https://xiyuanzh.github.io/assets/publications/PILOT.pdf" target="_blank">Paper</a> |        
+  <br><a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> |        
   <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>	  
   </p>
 
