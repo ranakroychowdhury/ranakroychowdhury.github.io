@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs. I work on forecasting and Large Language Models (LLMs) in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I build Generative AI-powered assistants to aid supply chain forecasting by intelligently answering questions like, what is happening in the supply chain, why it is happening, and recommend what actions to take. It will also enable users to explore what-if scenarios to evaluate different supply chain decisions.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in forecasting and Large Language Models (LLMs) within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I develop generative AI-powered interactive forecasting assistants that provide reliable and transparent answers to questions about supply chain events - explaining <em>what</em> is happening, <em>why</em> it is happening, <em>recommending</em> actions to take, and exploring <em>what-if</em> scenarios to assess and optimize supply chain decisions.
 
 Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
 
@@ -26,7 +26,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>Latest News</h1>
 
-[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
+[September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
 [August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
 
