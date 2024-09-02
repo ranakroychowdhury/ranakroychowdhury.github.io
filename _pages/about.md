@@ -26,7 +26,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> with <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> at Bellevue, WA.
+[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> with Amazon Web Services (AWS) AI Labs, in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> team, Bellevue, WA.
 
 [August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
 
