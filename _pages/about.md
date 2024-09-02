@@ -26,7 +26,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[September 2024] Started my first full-time job as an Applied Scientist II with <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> at Bellevue, WA.
+[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> with <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> at Bellevue, WA.
 
 [August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
 
@@ -42,7 +42,11 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
 
+<!-- 
+
 [August 2023] <a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
+
+-->
 
 [June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on <a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM</a>.
 
