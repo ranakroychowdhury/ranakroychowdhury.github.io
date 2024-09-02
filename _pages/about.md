@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in forecasting and Large Language Models (LLMs) within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I develop generative AI-powered interactive forecasting assistants that provide reliable and transparent answers to questions about supply chain events - explaining <em>what</em> is happening, <em>why</em> it is happening, <em>recommending</em> actions to take, and exploring <em>what-if</em> scenarios to assess and optimize supply chain decisions.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in forecasting and Large Language Models (LLMs) within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I develop generative AI-powered interactive forecasting assistant that provides reliable and transparent answers to supply chain events - explain <em>what</em> is happening in the supply chain, <em>why</em> it is happening, <em>recommend</em> actions to take, and explore <em>what-if</em> scenarios to assess trade-offs and optimize supply chain decisions.
 
 Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. I was also an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2024</a>.
 
@@ -24,7 +24,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 
-<h1>Latest News</h1>
+<h1>News</h1>
 
 [September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
@@ -106,6 +106,26 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <div id="work_experience">
 <h1>Work Experience</h1>
+
+
+<div>
+<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Explainable and Context-guided Forecasting</b>
+    <br>Building a generative AI-powered interactive forecasting assistant that provides intelligent answers to supply chain questions, helps visualize complex scenarios, and explores the trade-offs between different decisions. This tool enables inventory managers and planners to understand supply chain events, their causes, and recommended actions while evaluating various "what-if" scenarios.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/aws.jpg"> 
+    </div>
+  </div>
+</div>
+</div>
+
 
 <div>
 <p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
