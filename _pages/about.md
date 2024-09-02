@@ -14,12 +14,13 @@ I spent several summers working as an Applied Scientist II Intern at AWS AI, a D
 
 <h2>Research Interests</h2>
 
-I'm broadly interested in Data Mining Applications in Human-Centric AI:
+I'm broadly interested in Time-Series Applications in:
+- Supply Chain Forecasting
 - Human Motion Understanding
-- Health Analytics
+- Smart Sensing 
 - Audio & Speech Processing
 
-My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time series (wearable sensors, physiological signals, PPG, ECG, EEG). During my internships, I worked on Music LLMs and Accent Robust Speech Recognition. To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
+My projects involve developing learning systems using different types of time-series data, such as retail and supply chain (like sales, inventory, and manufacturing), health monitoring sensors (like wearables, biometric, and physiological data), and audio (including speech, audio, and music). To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
 
 
 
