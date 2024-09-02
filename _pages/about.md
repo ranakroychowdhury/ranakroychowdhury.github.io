@@ -8,19 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD Student (final year) at UCSD CSE with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research.
-
-I spent several summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, where I work on forecasting and Large Language Models (LLMs) in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. Prior to this, I was a Ph.D. Student at the University of California, San Diego. I was privileged to work with <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a> on building efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
 
 <h2>Research Interests</h2>
 
-I'm broadly interested in Time-Series Applications in:
-- Supply Chain Forecasting
-- Human Motion Understanding
-- Smart Sensing 
-- Audio & Speech Processing
+I am broadly interested in building applications from time-series data, including:
+- <b>Supply Chain</b> - Improve forecasting for better inventory management, sales prediction, and production planning for retail and manufacturing.
+- <b>Human Motion & Health Tracking</b> - Using kinematics data from wearable sensors to understand human motion and physiological and biometric data to analyze health.
+- <b>Audio Analysis</b> - Improve accented speech-related tasks and music chatbots. 
 
-My projects involve developing learning systems using different types of time-series data, such as retail and supply chain (like sales, inventory, and manufacturing), health monitoring sensors (like wearables, biometric, and physiological data), and audio (including speech, audio, and music). To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
+To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
 
 
 
