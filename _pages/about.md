@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, where I work on forecasting and Large Language Models (LLMs) in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. Prior to this, I was a Ph.D. Student at the University of California, San Diego. I was privileged to work with <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a> on building efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs. I work on forecasting and Large Language Models (LLMs) in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I build Generative AI-powered assistants to aid supply chain forecasting by intelligently answering questions like, what is happening in the supply chain, why it is happening, and recommend what actions to take. It will also enable users to explore what-if scenarios to evaluate different supply chain decisions.
+
+Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift.
 
 <h2>Research Interests</h2>
 
@@ -24,7 +26,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>Latest News</h1>
 
-[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> with Amazon Web Services (AWS) AI Labs, in the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> team, Bellevue, WA.
+[September 2024] Started my first full-time job as an <b>Applied Scientist II (L5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
 [August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
 
