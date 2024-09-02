@@ -26,9 +26,17 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
+[September 2024] Started my first full-time job as an Applied Scientist II with <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> at Bellevue, WA.
+
+[August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
+
 [April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted at <b>IJCAI</b> '24.
 
+-->
+
 [February 2024] Pre-print <a href="https://arxiv.org/abs/2402.18128" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> is now available.
+
+-->
 
 [September 2023] <a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
 
@@ -42,15 +50,19 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi.
 
--->
-
 [March 2023] Presented my Thesis Proposal on <a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy. 
+
+-->
 
 [February 2023] <a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
 [November 2022] <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
+<!-- 
+
 [October 2022] Started working with the Qualcomm Sensing Machine Learning Team.
+
+-->
 
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2022</a> for our proposal on <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Robust Machine Learning for Mobile Sensing</a>.
 
