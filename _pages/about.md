@@ -109,7 +109,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -672,12 +672,13 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Education</h1>
 
   <h2>University of California San Diego</h2>
-  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Aug 2024
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis Proposal: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis Dissertation: Efficient Learning for Sensor Time Series in Label Scarce Applications [<a href="https://drive.google.com/file/d/1aTN9l9b9udvf5-YbBfaRq1J-idDS4MQF/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/1afy2KFWl4PxUPGgASrBLkTfVmVJNyt7b/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
 
@@ -687,7 +688,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1E67fkHEEvIEiaFMp2Bdc2Ewm_j63dK5H/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1E67fkHEEvIEiaFMp2Bdc2Ewm_j63dK5H/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
@@ -697,7 +698,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Thesis</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
