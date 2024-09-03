@@ -28,7 +28,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 [September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
-[August 2024] Successfully defended my Ph.D. Thesis on <b>Efficient Learning for Sensor Time Series in Label Scarce Applications</b>.
+[August 2024] Successfully defended my Ph.D. Thesis on <a href="https://drive.google.com/file/d/1aTN9l9b9udvf5-YbBfaRq1J-idDS4MQF/view?usp=sharing" target="_blank">Efficient Learning for Sensor Time Series in Label Scarce Applications</a>.
 
 [April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted at <b>IJCAI</b> '24.
 
@@ -115,7 +115,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>Explainable and Context-guided Forecasting</b>
-    <br>Building a generative AI-powered interactive forecasting assistant that provides intelligent answers to supply chain questions, helps visualize complex scenarios, and explores the trade-offs between different decisions. This tool enables inventory managers and planners to understand supply chain events, their causes, and recommended actions while evaluating various "what-if" scenarios.
+    <br>Building a generative AI-powered interactive forecasting assistant that provides intelligent answers to supply chain questions, helps visualize complex scenarios, and explores the trade-offs between different decisions. This tool enables inventory managers and planners to understand supply chain events, their causes, and recommend actions while evaluating various "what-if" scenarios.
     </p>
   </div>
   <div class="archive__proj__left">
