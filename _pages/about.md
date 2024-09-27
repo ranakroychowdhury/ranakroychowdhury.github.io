@@ -26,11 +26,13 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>News</h1>
 
+[September 2024] <a href="https://openreview.net/pdf?id=DpByqSbdhI" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a> has been accepted to <b>NeurIPS</b> '24. It's the first pre-trained model for human motion time series.
+
 [September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
 [August 2024] Successfully defended my Ph.D. Thesis on <a href="https://drive.google.com/file/d/1aTN9l9b9udvf5-YbBfaRq1J-idDS4MQF/view?usp=sharing" target="_blank">Efficient Learning for Sensor Time Series in Label Scarce Applications</a>.
 
-[April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted at <b>IJCAI</b> '24.
+[April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted to <b>IJCAI</b> '24.
 
 <!-- 
 
