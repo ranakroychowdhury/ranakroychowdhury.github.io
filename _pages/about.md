@@ -261,6 +261,20 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
+    <b><a href="https://openreview.net/pdf?id=DpByqSbdhI" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a></b>
+    <br>First pre-trained model for human motion time series that excels in zero-shot action recognition across a broad spectrum of wearable devices, regardless of body placement or orientation.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/UniMTS.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
     <b><a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series: A Survey</a></b>
     <br>Pioneered the first survey on how LLMs can solve time-series tasks through prompting, time-series quantization, alignment of time-series with text, using vision as bridge, and using LLMs as output tools.
     </p>
@@ -541,9 +555,16 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
 
   <p> 
+  <b>UniMTS: Unified Pre-training for Motion Time Series</b>
+  <br>Xiyuan Zhang, Diyan Teng, <b>Ranak Roy Chowdhury</b>, Shuheng Li, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2024.
+  <br><a href="https://openreview.net/pdf?id=DpByqSbdhI" target="_blank">Paper</a>  
+  </p>
+  
+  <p> 
   <b>Large Language Models for Time Series: A Survey</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Jingbo Shang
-  <br>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024.
+  <br>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024, Survey Track.
   <br><a href="https://arxiv.org/abs/2402.01801" target="_blank">Paper</a> |        
   <a href="https://github.com/xiyuanzh/awesome-llm-time-series" target="_blank">Code</a>	  
   </p>
