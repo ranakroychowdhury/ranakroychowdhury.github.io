@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in Supply Chain Optimization. I work on building accurate, robust, and explainable Demand and Supply Planning models within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in Supply Chain Optimization. I work on building accurate, robust, and explainable Demand and Supply Plan based Forecasting models within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group.
 
-Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient sensory learning systems for Human Action Recognition. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. 
+Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient sensory learning systems for Human Action Recognition. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. I was an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2024</a>.
 
-During my Ph.D, I spent several wonderful summers as an Applied Scientist II Intern at AWS AI, working on working on Music, Speech, and Audio domains. I also spent a summer as a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. I was an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2024</a>.
+During my Ph.D, I spent several wonderful summers as an Applied Scientist II Intern at AWS AI, working on working on Music, Speech, and Audio domains. I also spent a summer as a Data Science Intern at Bell Labs and a Software Development Engineer Intern at AWS Redshift.
 
 <h2>Research Interests</h2>
 
 I am broadly interested in building applications from time-series data, including:
-- <b>Supply Chain</b> - Improve forecasting for better inventory management, sales prediction, and production planning for retail and manufacturing.
-- <b>Human Motion & Health Tracking</b> - Using kinematics data from wearable sensors to understand human motion and physiological and biometric data to analyze health.
+- <b>Supply Chain</b> - Improve forecasting for better inventory management, sales prediction, supply-demand, and production planning for retail and manufacturing.
+- <b>Human Motion & Health Tracking</b> - Using kinematics data from wearable sensors to understand human motion and physiological data to analyze health.
 - <b>Audio Analysis</b> - Improve accented speech-related tasks and music chatbots. 
 
 To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
@@ -28,7 +28,9 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>News</h1>
 
-[September 2024] <a href="https://openreview.net/pdf?id=DpByqSbdhI" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a> has been accepted to <b>NeurIPS</b> '24 (First pre-trained model for human motion time series).
+[December 2024] "ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition" has been accepted to <b>AAAI</b> '25.
+
+[September 2024] <a href="https://arxiv.org/pdf/2410.19818" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a> has been accepted to <b>NeurIPS</b> '24 (First pre-trained model for human motion time series).
 
 [September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
