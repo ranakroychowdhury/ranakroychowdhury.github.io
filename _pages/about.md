@@ -120,8 +120,8 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Explainable and Context-guided Forecasting</b>
-    <br>Building a generative AI-powered interactive forecasting assistant that provides intelligent answers to supply chain questions, helps visualize complex scenarios, and explores the trade-offs between different decisions. This tool enables inventory managers and planners to understand supply chain events, their causes, and recommend actions while evaluating various "what-if" scenarios.
+    <b>Forecasting for Supply Chain Optimization</b>
+    <br>Developing accurate, robust, and explainable forecasting models for demand and supply planning. These models optimize inventory management, sales predictions, supply-demand alignment, and production planning in retail and manufacturing industries.
     </p>
   </div>
   <div class="archive__proj__left">
@@ -559,10 +559,17 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
 
   <p> 
+  <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
+  <br><b>Ranak Roy Chowdhury</b>, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025.  
+  </p>
+  
+  <p> 
   <b>UniMTS: Unified Pre-training for Motion Time Series</b>
   <br>Xiyuan Zhang, Diyan Teng, <b>Ranak Roy Chowdhury</b>, Shuheng Li, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2024.
-  <br><a href="https://openreview.net/pdf?id=DpByqSbdhI" target="_blank">Paper</a>  
+  <br><a href="https://arxiv.org/abs/2410.19818" target="_blank">Paper</a> |
+  <a href="https://github.com/xiyuanzh/UniMTS" target="_blank">Code</a>	  
   </p>
   
   <p> 
@@ -571,12 +578,6 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024, Survey Track.
   <br><a href="https://arxiv.org/abs/2402.01801" target="_blank">Paper</a> |        
   <a href="https://github.com/xiyuanzh/awesome-llm-time-series" target="_blank">Code</a>	  
-  </p>
-  
-  <p> 
-  <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
-  <br><b>Ranak Roy Chowdhury</b>, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh Gupta, Jingbo Shang
-  <br><em>[Under Submission]</em>  
   </p>
   
   <p> 
