@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in forecasting and Large Language Models (LLMs) within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group. I develop generative AI-powered interactive forecasting assistant that provides reliable and transparent answers to supply chain events - explain <em>what</em> is happening in the supply chain, <em>why</em> it is happening, <em>recommend</em> actions to take, and explore <em>what-if</em> scenarios to assess trade-offs and optimize supply chain decisions.
+I'm a full-time Applied Scientist II (Level 5) with Amazon Web Services (AWS) AI Labs, specializing in Supply Chain Optimization. I work on building accurate, robust, and explainable Demand and Supply Planning models within the <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> group.
 
-Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient learning systems for label scarce sensory applications. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. During my Ph.D., I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. I was also an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2024</a>.
+Prior to this, I was a Ph.D. Student at the University of California, San Diego, where I built efficient sensory learning systems for Human Action Recognition. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research. 
+
+During my Ph.D, I spent several wonderful summers as an Applied Scientist II Intern at AWS AI, working on working on Music, Speech, and Audio domains. I also spent a summer as a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. I was an invited keynote speaker at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2024</a>.
 
 <h2>Research Interests</h2>
 
