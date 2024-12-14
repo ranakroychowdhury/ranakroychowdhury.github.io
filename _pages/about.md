@@ -705,8 +705,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Data Mining</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis Proposal: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/18IHTH2-jnFkhK7yprTou8lfaJOnBwdZh/view?usp=sharing" target="_blank">Slide</a>]</li>
-	<li>Thesis Dissertation: Efficient Learning for Sensor Time Series in Label Scarce Applications [<a href="https://drive.google.com/file/d/1aTN9l9b9udvf5-YbBfaRq1J-idDS4MQF/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/1afy2KFWl4PxUPGgASrBLkTfVmVJNyt7b/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis Proposal: Data-Efficient Learning for Sensory Time Series [<a href="https://drive.google.com/file/d/1o9OaCJIRIjX8evbTXW2dIQKfO7O4bH9F/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis Dissertation: Efficient Learning for Sensor Time Series in Label Scarce Applications [<a href="https://escholarship.org/uc/item/1gq3670c" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/192aes_MO6VR7OCDNODSOydVFQyhnR1f8/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
 
@@ -716,7 +716,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
-	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1E67fkHEEvIEiaFMp2Bdc2Ewm_j63dK5H/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/13c0upqdZPKH1srExsfR664TzYfF25_3B/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1gOxxCOatQwh750u8U5uPEtBSjyHXXegQ/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://drive.google.com/file/d/10eAy23375hfG9WUUfXy07StVlf62Zs9d/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
@@ -726,7 +726,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/1mMGSy-4-7foVE0J-WQlv2Au13xHy96qO/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/14hV7Cx2a1wYHK2s8O-0eEa1MVgSrK9kw/view?usp=sharing" target="_blank">Dissertation</a> | <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/1EkwzqsQjCRmXoJpP1xDpJ_v5nBLll7Jw/view?usp=sharing" target="_blank">Poster</a> | <a href="https://drive.google.com/file/d/1vF24ok4GArl2iavzrwWSq4-IP4pdQlK6/view?usp=sharing" target="_blank">Slide</a>]</li>
      </ul> 
     </p>
  
