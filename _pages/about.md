@@ -28,7 +28,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>News</h1>
 
-[March 2025] The inaugural workshop on <a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">AI for Supply Chain: Today and Future</a> has been accepted to <b>SIGKDD</b> '25. (To be held in conjunction with KDD 2025, Toronto, ON, Canada, Aug 3 - 4)
+[March 2025] The inaugural workshop on <a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">AI for Supply Chain: Today and Future</a> is accepted to <b>KDD</b> '25. (To be held in conjunction with KDD 2025, Toronto, ON, Canada, Aug 3 - 4, 2025)
 
 [March 2025] <a href="https://openreview.net/pdf?id=cFmmaxkD5A" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> has been accepted to <b>TMLR</b>.
 
@@ -119,7 +119,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -138,7 +138,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -157,7 +157,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -176,7 +176,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -195,7 +195,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 	
 <div>
-<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
+<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -237,7 +237,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 </div>
 	
 <div>
-<p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
+<p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -704,7 +704,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Education</h1>
 
   <h2>University of California San Diego</h2>
-  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Aug 2024
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Aug 2024
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
