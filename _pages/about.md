@@ -28,6 +28,10 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>News</h1>
 
+[March 2025] The inaugural workshop on <a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">AI for Supply Chain: Today and Future</a> has been accepted to <b>SIGKDD</b> '25. (To be held in conjunction with KDD 2025, Toronto, ON, Canada, Aug 3 - 4)
+
+[March 2025] <a href="https://openreview.net/pdf?id=cFmmaxkD5A" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> has been accepted to <b>TMLR</b>.
+
 [December 2024] "ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition" has been accepted to <b>AAAI</b> '25.
 
 [September 2024] <a href="https://arxiv.org/pdf/2410.19818" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a> has been accepted to <b>NeurIPS</b> '24 (First pre-trained model for human motion time series).
@@ -115,7 +119,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -134,7 +138,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -153,7 +157,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -172,7 +176,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -191,7 +195,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 	
 <div>
-<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
+<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -210,7 +214,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 <div>
-<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
+<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -233,7 +237,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 </div>
 	
 <div>
-<p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
+<p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -563,6 +567,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><b>Ranak Roy Chowdhury</b>, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025.  
   </p>
+
+  <p> 
+  <b>Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</b>
+  <br>Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Pengtao Xie
+  <br>Transactions on Machine Learning Research (<b>TMLR</b>).
+  <br><a href="https://openreview.net/pdf?id=cFmmaxkD5A" target="_blank">Paper</a> |        
+  <a href="https://github.com/Alexiland/MLOMAE" target="_blank">Code</a>	  
+  </p>
   
   <p> 
   <b>UniMTS: Unified Pre-training for Motion Time Series</b>
@@ -578,14 +590,6 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024, Survey Track.
   <br><a href="https://arxiv.org/abs/2402.01801" target="_blank">Paper</a> |        
   <a href="https://github.com/xiyuanzh/awesome-llm-time-series" target="_blank">Code</a>	  
-  </p>
-  
-  <p> 
-  <b>MLO-MAE: Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</b>
-  <br>Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, <b>Ranak Roy Chowdhury</b>, Rajesh Gupta, Pengtao Xie
-  <br><em>[Under Submission]</em>
-  <br><a href="https://arxiv.org/abs/2402.18128" target="_blank">Paper</a> |        
-  <a href="https://github.com/Alexiland/MLOMAE" target="_blank">Code</a>	  
   </p>
 
   <p>
@@ -700,7 +704,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Education</h1>
 
   <h2>University of California San Diego</h2>
-  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Aug 2024
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Aug 2024
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
@@ -740,6 +744,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
+
+    <li><b>Lead organizer</b> of the inaugural workshop on “AI for Supply Chain: Today and Future” at <b>SIGKDD 2025</b>. [<a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">Workshop</a>]</li>
+ 
     <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">Workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">Slide</a>]</li>
 	   
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning for Mobile Sensing". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a> | <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Proposal</a>]</li>
