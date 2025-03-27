@@ -777,15 +777,15 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
    <ul>
 
-   <li>Lead organizer: SIGKDD 2025 Workshop on AI for Supply Chain: Today and Future, Toronto, ON, Canada.</li>
+   <li>Lead organizer: SIGKDD 2025 Workshop on "AI for Supply Chain: Today and Future", Toronto, ON, Canada</li>
    
    <li>Program Committee Member: SIGKDD 2024</li>
 
-   <li>Invited Keynote Speaker: SIGKDD 2023 Workshop on Machine Learning in Finance, Long Beach, CA, USA.</li>
+   <li>Invited Keynote Speaker: SIGKDD 2023 Workshop on "Machine Learning in Finance", Long Beach, CA, USA</li>
 
    <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems</li>
 
-   <li>Mentored 2 UCSD CSE MS students on a research project.</li>
+   <li>Mentored 2 UCSD CSE MS students on a research project that resulted in a conference proceeedings paper at AAAI 2025, Philadelphia, Pennsylvania, USA</li>
   
    </ul>
   </p>
