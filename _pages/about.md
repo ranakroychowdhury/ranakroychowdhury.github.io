@@ -785,7 +785,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
    <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems</li>
 
-   <li>Mentored 2 UCSD CSE MS students on a research project that resulted in a conference proceeedings paper at AAAI 2025, Philadelphia, Pennsylvania, USA</li>
+   <li>Mentored 2 UCSD CSE MS students on a research project that led to a paper in the AAAI 2025 conference proceedings, Philadelphia, Pennsylvania, USA</li>
   
    </ul>
   </p>
