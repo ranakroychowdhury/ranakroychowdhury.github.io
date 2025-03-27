@@ -745,7 +745,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
    <ul>
 
-    <li><b>Lead organizer</b> of the inaugural workshop on “AI for Supply Chain: Today and Future” at <b>SIGKDD 2025</b>. [<a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">Workshop</a>]</li>
+    <li><b>Lead organizer</b> of the inaugural workshop on “AI for Supply Chain: Today and Future” at <b>SIGKDD 2025</b>, Toronto, ON, Canada. [<a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">Workshop</a>]</li>
  
     <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">Workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">Slide</a>]</li>
 	   
@@ -776,7 +776,12 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
+
+   <li>Lead organizer: SIGKDD 2025 Workshop on AI for Supply Chain: Today and Future, Toronto, ON, Canada.</li>
+   
    <li>Program Committee Member: SIGKDD 2024</li>
+
+   <li>Invited Keynote Speaker: SIGKDD 2023 Workshop on Machine Learning in Finance, Long Beach, CA, USA.</li>
 
    <li>Teaching: TA for CSE 158 - Web Mining and Recommender Systems</li>
 
