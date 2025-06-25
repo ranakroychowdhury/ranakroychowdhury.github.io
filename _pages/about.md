@@ -120,13 +120,22 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <h2>Full-time Experience</h2>
 
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
     <b>Forecasting for Supply Chain Optimization</b>
-    <br>Developing accurate, robust, and explainable forecasting models for demand and supply planning. These models optimize inventory management, sales predictions, supply-demand alignment, and production planning in retail and manufacturing industries.
+    <br>Developed a scalable Demand Forecasting toolkit for AWS Supply Chain, used by several B2B and B2C clients across Retail, CPG, and Manufacturing. Delivered significant accuracy gains by minimizing stock-outs, reducing excess inventory, and cutting manual forecasting workload for Demand Planners.
+	    <ul>
+	   <li>Designed a custom forecast evaluation metric that quantifies the business impact of forecast error by balancing overstock vs. stockout costs, providing clear monetary tradeoffs in terms of revenue, cash flow, and profitability.</li>
+	   <li>Engineered hierarchical forecasting across temporal, spatial, and product hierarchies using top-down, bottom-up and middle-out approaches, plus statistical and ML-based reconciliation, improving accuracy at all aggregation levels.</li>
+	   <li>Created a personalized validation and performance reporting framework tailored to each customer's business model — factoring in seasonality and vendor lead times — to reduce unnecessary retraining and model churn.</li>
+	   <li>Devised a neural split-peak attention mechanism to handle sparse demand. It models peak demand using masked convolution and non-peak demand using split attention, reducing post-peak bias and improving forecast accuracy.</li>
+	   <li>Enhanced model performance through multivariate feature integration, like holidays, price changes, and promotions.</li>
+	   <li>Resolved the cold-start problem via product lineage and lifecycle graph to enable similarity-based matching.</li>
+	   </ul>
+  </p>
     </p>
   </div>
   <div class="archive__proj__left">
