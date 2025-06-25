@@ -17,7 +17,7 @@ During my Ph.D, I spent several wonderful summers as an Applied Scientist II Int
 <h2>Research Interests</h2>
 
 I am broadly interested in building applications from time-series data, including:
-- <b>Supply Chain</b> - Improved demand forecasting to support accurate resource planning, while optimizing inventory management, automating exception detection, performing root cause analysis, and driving actionable recommendations in retail and manufacturing.
+- <b>Supply Chain</b> - Improved demand forecasting to support accurate resource planning, optimizing inventory management, exception detection, root cause analysis, and driving actionable recommendations in retail and manufacturing.
 - <b>Wearable Sensing & Healthcare</b> - Leveraged kinematic data, enriched with physical and semantic context, to enhance action recognitiong and improve health assessment from physiological signals.
 - <b>Audio Analysis</b> - Augmented accent-robustness of speech models and designed chatbots for audio and music interaction. 
 
