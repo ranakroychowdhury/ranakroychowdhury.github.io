@@ -117,6 +117,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div id="work_experience">
 <h1>Work Experience</h1>
 
+<h2>Full-time Experience</h2>
 
 <div>
 <p style="font-size:20px;"><b>Applied Scientist II </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2024 - Present</em></p>
@@ -137,8 +138,10 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 </div>
 
 
+<h2>Internship Experience</h2>
+
 <div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -155,28 +158,8 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 </div>
 </div>
 
-
 <div>
-<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Context Aware Learning for IoT</b>
-    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
-    </p>
-  </div>
-  <div class="archive__proj__left">
-     <div>
-        <img src="https://ranakroychowdhury.github.io/images/qualcomm.jpg"> 
-    </div>
-  </div>
-</div>
-</div>
-
-
-<div>
-<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -192,10 +175,9 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   </div>
 </div>
 </div>
-
 	
 <div>
-<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
+<p style="font-size:20px;"><b>Data Scientist</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Aug 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -212,9 +194,8 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 </div>
 </div>
 
-
 <div>
-<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
+<p style="font-size:20px;"><b>Software Development Engineer</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -235,10 +216,46 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   </div>
 </div>
 </div>
-	
+
+
+<h2>Research Experience</h2>
+
+<div>
+<p style="font-size:20px;"><b>Graduate Student Researcher</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Aug 2024</em></p>
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Context Aware Learning for IoT</b>
+    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/ucsd2.png"> 
+    </div>
+  </div>
+</div>
+</div>
+
+<div>
+<p style="font-size:20px;"><b>Research Fellow</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Oct 2022 - Sep 2023</em></p>
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Context Aware Learning for IoT</b>
+    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/qualcomm.jpg"> 
+    </div>
+  </div>
+</div>
+</div>
+
 <div>
 <p style="font-size:20px;"><b>Research Assistant</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jan 2019 - Aug 2019</em></p>
-
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
@@ -257,7 +274,6 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   </div>
 </div>
 </div>
-
 </div>
 
 
