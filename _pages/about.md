@@ -225,8 +225,8 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Context Aware Learning for IoT</b>
-    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    <b>Data-Efficient and Robust Learning for Sensory Systems</b>
+    <br> Developed knowledge-driven learning methods leveraging physical and semantic context to enhance robustness and data efficiency in sensory systems. Applications spanned wearable sensing, motion tracking, and healthcare, resulting in 10+ peer-reviewed publications. Check out all the relevant publications [here](https://ranakroychowdhury.github.io/#publications).
     </p>
   </div>
   <div class="archive__proj__left">
