@@ -221,7 +221,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <h2>Research Experience</h2>
 
 <div>
-<p style="font-size:20px;"><b>Graduate Student Researcher</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Aug 2024</em></p>
+<p style="font-size:20px;"><b>Graduate Student Researcher</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Aug 2024</em></p>
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
