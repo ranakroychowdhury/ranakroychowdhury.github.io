@@ -226,7 +226,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>Data-Efficient and Robust Learning for Sensory Systems</b>
-    <br> Developed knowledge-driven learning methods leveraging physical and semantic context to enhance robustness and data efficiency in sensory systems. Applications spanned wearable sensing, motion tracking, and healthcare, resulting in 10+ peer-reviewed publications. Check out all the relevant [publications](https://ranakroychowdhury.github.io/#publications).
+    <br> Developed knowledge-driven learning methods leveraging physical and semantic context to enhance robustness and data efficiency in sensory systems. Applications spanned wearable sensing, motion tracking, and healthcare, resulting in 10+ peer-reviewed publications. Check out all the relevant <a href="https://ranakroychowdhury.github.io/#publications" target="_blank">publications</a>.
     </p>
   </div>
   <div class="archive__proj__left">
