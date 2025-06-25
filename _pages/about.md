@@ -136,7 +136,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
         <li>Designed a custom forecast evaluation metric that quantifies the business impact of forecast error by balancing overstock vs. stockout costs, providing clear monetary tradeoffs in terms of revenue, cash flow, and profitability.</li>
         <li>Engineered hierarchical forecasting across temporal, spatial, and product hierarchies using top-down, bottom-up and middle-out approaches, plus statistical and ML-based reconciliation, improving accuracy at all aggregation levels.</li>
         <li>Created a personalized validation and performance reporting framework tailored to each customer's business model — factoring in seasonality and vendor lead times — to reduce unnecessary retraining and model churn.</li>
-        <li>Devised a neural split-peak attention method to handle sparse demand. It models peak demand using split attention and non-peak demand using split masked convolution, reducing post-peak bias and improving forecast accuracy.</li>
+        <li>Devised a neural split-peak attention method to handle sparse demand. It models peak demand using self-attention and non-peak demand using masked convolution, reducing post-peak bias and improving forecast accuracy.</li>
         <li>Enhanced model performance through multivariate feature integration, like holidays, price changes, and promotions.</li>
         <li>Resolved the cold-start problem via product lineage and lifecycle graph and used similarity-based matching.</li>
       </ul>
