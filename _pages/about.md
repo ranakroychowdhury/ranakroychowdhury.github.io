@@ -17,9 +17,9 @@ During my Ph.D, I spent several wonderful summers as an Applied Scientist II Int
 <h2>Research Interests</h2>
 
 I am broadly interested in building applications from time-series data, including:
-- <b>Supply Chain</b> - Improve forecasting for better inventory management, sales prediction, supply-demand, and production planning for retail and manufacturing.
-- <b>Human Motion & Health Tracking</b> - Using kinematics data from wearable sensors to understand human motion and physiological data to analyze health.
-- <b>Audio Analysis</b> - Improve accented speech-related tasks and music chatbots. 
+- <b>Supply Chain</b> - Improved demand forecasting to support accurate resource planning, while optimizing inventory management, automating exception detection, performing root cause analysis, and driving actionable recommendations in retail and manufacturing.
+- <b>Human Motion & Health Tracking</b> - Leveraged kinematic data, enriched with physical and semantic context, to analyze human motion in wearebl sensing and improve health assessment from physiological signals.
+- <b>Audio Analysis</b> - Enhanced accent-robustness of speech models and designed chatbots for audio and music interaction. 
 
 To learn more about my work, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications).
 
