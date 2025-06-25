@@ -151,25 +151,29 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 
 
-<div class="archive__proj__row" style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <div class="archive__proj__left" style="margin-right: 20px; flex-shrink: 0;">
+<div class="archive__proj__row" style="display: flex; align-items: flex-start;">
+  <div class="archive__proj__left" style="margin-right: 20px;">
     <img src="https://ranakroychowdhury.github.io/images/aws.jpg" style="width: 100px;">
   </div>
-  <div class="archive__proj__right" style="flex: 1;">
-    <p>
-      <b>Forecasting for Supply Chain Optimization</b><br>
+  <div class="archive__proj__right" style="flex: 1; text-align: left; max-width: none; width: 100%;">
+    <p style="margin-top: 0;">
+      <b>Forecasting for Supply Chain Optimization - DP</b><br>
       Developed a scalable Demand Forecasting toolkit for AWS Supply Chain, used by several B2B and B2C clients across Retail, CPG, and Manufacturing. Delivered significant accuracy gains by minimizing stock-outs, reducing excess inventory, and cutting manual forecasting workload for Demand Planners.
     </p>
-    <ul>
-      <li>Designed a custom forecast evaluation metric that quantifies the business impact of forecast error by balancing overstock vs. stockout costs, providing clear monetary tradeoffs in terms of revenue, cash flow, and profitability.</li>
-      <li>Engineered hierarchical forecasting across temporal, spatial, and product hierarchies using top-down, bottom-up and middle-out approaches, plus statistical and ML-based reconciliation, improving accuracy at all aggregation levels.</li>
-      <li>Created a personalized validation and performance reporting framework tailored to each customer's business model — factoring in seasonality and vendor lead times — to reduce unnecessary retraining and model churn.</li>
-      <li>Devised a neural split-peak attention mechanism to handle sparse demand. It models peak demand using masked convolution and non-peak demand using split attention, reducing post-peak bias and improving forecast accuracy.</li>
-      <li>Enhanced model performance through multivariate feature integration, like holidays, price changes, and promotions.</li>
-      <li>Resolved the cold-start problem via product lineage and lifecycle graph to enable similarity-based matching.</li>
-    </ul>
+    <div style="margin-left: -120px;">
+      <ul style="margin-top: 0;">
+        <li>Designed a custom forecast evaluation metric that quantifies the business impact of forecast error by balancing overstock vs. stockout costs, providing clear monetary tradeoffs in terms of revenue, cash flow, and profitability.</li>
+        <li>Engineered hierarchical forecasting across temporal, spatial, and product hierarchies using top-down, bottom-up and middle-out approaches, plus statistical and ML-based reconciliation, improving accuracy at all aggregation levels.</li>
+        <li>Created a personalized validation and performance reporting framework tailored to each customer's business model — factoring in seasonality and vendor lead times — to reduce unnecessary retraining and model churn.</li>
+        <li>Devised a neural split-peak attention mechanism to handle sparse demand. It models peak demand using masked convolution and non-peak demand using split attention, reducing post-peak bias and improving forecast accuracy.</li>
+        <li>Enhanced model performance through multivariate feature integration, like holidays, price changes, and promotions.</li>
+        <li>Resolved the cold-start problem via product lineage and lifecycle graph to enable similarity-based matching.</li>
+      </ul>
+    </div>
   </div>
 </div>
+
+
 
 
 <h2>Internship Experience</h2>
