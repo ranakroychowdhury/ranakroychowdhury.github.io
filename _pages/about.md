@@ -28,11 +28,11 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 <h1>News</h1>
 
-[March 2025] The inaugural workshop on <a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">AI for Supply Chain: Today and Future</a> is accepted to <b>KDD</b> '25. (To be held in conjunction with KDD 2025, Toronto, ON, Canada, Aug 3 - 4, 2025)
+[March 2025] The inaugural workshop on <a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">AI for Supply Chain: Today and Future</a> is accepted to <b>KDD</b> '25. (Held in conjunction with KDD 2025, Toronto, ON, Canada, Aug 3 - 4, 2025) [<a href="https://dl.acm.org/doi/10.1145/3711896.3737872" target="_blank">Proposal</a>]
 
 [March 2025] <a href="https://openreview.net/pdf?id=cFmmaxkD5A" target="_blank">Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization</a> has been accepted to <b>TMLR</b>.
 
-[December 2024] "ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition" has been accepted to <b>AAAI</b> '25.
+[December 2024] <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">ZeroHAR: Sensor Context Augments Zero-Shot Wearable Action Recognition</a> has been accepted to <b>AAAI</b> '25.
 
 [September 2024] <a href="https://arxiv.org/pdf/2410.19818" target="_blank">UniMTS: Unified Pre-training for Motion Time Series</a> has been accepted to <b>NeurIPS</b> '24 (First pre-trained model for human motion time series).
 
@@ -138,7 +138,6 @@ To learn more about my work, please look into my [projects](https://ranakroychow
         <li>Created a personalized validation and performance reporting framework tailored to each customer's business model — factoring in seasonality and vendor lead times — to reduce unnecessary retraining and model churn.</li>
         <li>Devised a neural split-peak attention method to handle sparse demand. It models peak demand using self-attention and non-peak demand using masked convolution, reducing post-peak bias and improving forecast accuracy.</li>
         <li>Enhanced model performance through multivariate feature integration, like holidays, price changes, and promotions.</li>
-        <li>Resolved the cold-start problem via product lineage and lifecycle graph and used similarity-based matching.</li>
       </ul>
     </div>
   </div>
@@ -252,7 +251,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>Context Aware Learning for IoT</b>
-    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition.
+    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/13UYH4H2oTrfXzrMMg3dcoYQ-K2kzOLBw/view?usp=sharing" target="_blank">Slide</a>].
     </p>
   </div>
   <div class="archive__proj__left">
@@ -322,7 +321,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
+    <b><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</a></b>
     <br>Innovated a Zero-Shot Wearable Human Activity Recognition framework that integrates contextual knowledge about activities from LLMs and sensory environment information to improve <b>Zero-Shot F1 Score</b> by <b>20%</b>.
     </p>
   </div>
@@ -590,7 +589,10 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p> 
   <b>ZeroHAR: Contextual Knowledge Augments Zero-Shot Wearable Human Activity Recognition</b>
   <br><b>Ranak Roy Chowdhury</b>, Ritvik Kapila, Ameya Panse, Xiyuan Zhang, Diyan Teng, Rashmi Kulkarni, Dezhi Hong, Rajesh Gupta, Jingbo Shang
-  <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025.  
+  <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2025.
+  <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">Paper</a> |        
+  <a href="https://drive.google.com/file/d/1MWsyp23zdCMLXvRs8y2EC9qA_sK6jVJq/view?usp=sharing" target="_blank">Poster</a> |
+  <a href="https://drive.google.com/file/d/13UYH4H2oTrfXzrMMg3dcoYQ-K2kzOLBw/view?usp=sharing" target="_blank">Slide</a>
   </p>
 
   <p> 
@@ -770,7 +772,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
    <ul>
 
-    <li><b>Lead organizer</b> of the inaugural workshop on “AI for Supply Chain: Today and Future” at <b>SIGKDD 2025</b>, Toronto, ON, Canada. [<a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">Workshop</a>]</li>
+    <li><b>Lead organizer</b> of the inaugural workshop on “AI for Supply Chain: Today and Future” at <b>SIGKDD 2025</b>, Toronto, ON, Canada. [<a href="https://sites.google.com/view/ai4supplychain-kdd-2025/home" target="_blank">Workshop</a> | <a href="https://dl.acm.org/doi/10.1145/3711896.3737872" target="_blank">Proposal</a>]</li>
  
     <li>Invited <b>Keynote Speaker</b> at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">Workshop</a> | <a href="https://drive.google.com/file/d/1xe0YV4AHQpuAGJawWQz5y1uYj2HFKGOS/view?usp=sharing" target="_blank">Slide</a>]</li>
 	   
