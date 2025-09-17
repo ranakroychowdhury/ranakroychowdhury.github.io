@@ -377,7 +377,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM: Music Understanding with LLMs</a></b>
+    <b><a href="https://drive.google.com/file/d/1kmJ4__4_o-mCDJlmaPiLyHgLJa7bZK63/view?usp=sharing" target="_blank">MusicLLM: Music Understanding with LLMs</a></b>
     <br>Developed an LLM with music integration that generates text responses, including music genre, instruments used, mood, and theme, based on music files. Used Encodec audio features in conjunction with FLAN-T5 LLM.
     </p>
   </div>
@@ -433,7 +433,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">MARS: Multitask Pre-training for Accent Robust Speech Recognition</a></b>
+    <b><a href="https://drive.google.com/file/d/1eXPHQGtdK8CbHpxqvY-IfZW7URj5ZxUn/view?usp=sharing" target="_blank">MARS: Multitask Pre-training for Accent Robust Speech Recognition</a></b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
     </p>
   </div>
@@ -475,7 +475,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Automated Ticket Resolution from Semi-Structured Log Data</a></b>
+    <b><a href="https://drive.google.com/file/d/1fT58gAvh4jt0ENnt8dKwEhrldlnHgIkS/view?usp=sharing" target="_blank">Automated Ticket Resolution from Semi-Structured Log Data</a></b>
     <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
     </p>
   </div>
@@ -630,7 +630,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Xiyuan Zhang, Xiaohan Fu, Diyan Teng, Chengyu Dong, Keerthivasan Vijayakumar, Jiayun Zhang, <b>Ranak Roy Chowdhury</b>, Junsheng Han, Dezhi Hong, Rashmi Kulkarni, Jingbo Shang, Rajesh Gupta
   <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2023.
   <br><a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> |        
-  <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>	  
+  <a href="https://drive.google.com/file/d/10jyLa-VT83_g0e4CWePOPcr68ohdNItH/view?usp=sharing" target="_blank">Slide</a>	  
   </p>
 
   <p>
@@ -639,8 +639,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023. [Travel Grant]
   <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">Paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1tC1NpU7yfLVjccPzRZtRyA94oUZrViVg/view?usp=sharing" target="_blank">Poster</a> |         
-  <a href="https://drive.google.com/file/d/1n2_nQQgSp4_8UKcQDnyYsINzWiI8llhl/view?usp=sharing" target="_blank">Slide</a>	  
+  <a href="https://drive.google.com/file/d/1FbqChNRccst4yhAXCWirfjrwluZvrzXq/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1e8_5cX7YhSN2Ae1iZ6Bm0MKzOVfQgo06/view?usp=sharing" target="_blank">Slide</a>	  
   </p>
 
   <p>
@@ -649,7 +649,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>Conference on Information and Knowledge Management (<b>CIKM</b>), 2023.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3583780.3615101" target="_blank">Paper</a> |
   <a href="https://github.com/xiyuanzh/SHARE" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1N72H71mb0hSO9bL9iyrIJsHB0N2-J4jG/view?usp=sharing" target="_blank">Slide</a> |         
+  <a href="https://drive.google.com/file/d/1Guq2gVaXBtfYws9S8IZx24v98gu6UneO/view?usp=sharing" target="_blank">Slide</a> |         
   <a href="https://pypi.org/project/semantichar/0.2/" target="_blank">Package</a>
   </p>
 
@@ -665,8 +665,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
   <br><a href="https://ieeexplore.ieee.org/abstract/document/10097273" target="_blank">Paper</a> |
   <a href="https://github.com/xiyuanzh/STAug" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/13eT23QL_QhrDAnqfVJYkvlQdm0O-K5q-/view?usp=sharing" target="_blank">Poster</a> |         
-  <a href="https://drive.google.com/file/d/1CrkgRWeQXAd6-HxT3nNpr9fhtJZw5dph/view?usp=sharing" target="_blank">Slide</a>
+  <a href="https://drive.google.com/file/d/1B6aSlI6Ifqek6P8KWFRPKcJW2e1Ag2ox/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1SwT-17zur8NuzEEIMZBd3n2I6HJlM_2Y/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
   <p>
@@ -675,8 +675,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>SIGKDD Conference On Knowledge Discovery and Data Mining (<b>SIGKDD</b>), 2022. [Travel Grant]
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">Paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1d4rW3q9jHTELbptH9ssMLM9Cuh405HUS/view?usp=sharing" target="_blank">Poster</a> |         
-  <a href="https://drive.google.com/file/d/1blf6cZt1DKrImxcklL6DurKpHoAYrnT-/view?usp=sharing" target="_blank">Slide</a>
+  <a href="https://drive.google.com/file/d/1c3gIJGyM-xZ4DCP8l_CsRLaR50OuETr7/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/1Bm-krfV8cIPk0_WDUKXdY_z-YtpDeHRu/view?usp=sharing" target="_blank">Slide</a>
   </p>
 	
   <p>
@@ -685,8 +685,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br>International Conference on Web Search and Data Mining (<b>WSDM</b>), 2022.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">Paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">Code</a> | 
-  <a href="https://drive.google.com/file/d/1hMtWG49sRhMQY3pfmUtFYmY-xklvsAZQ/view?usp=sharing" target="_blank">Poster</a> |         
-  <a href="https://drive.google.com/file/d/1LZ4tliDVRVZiYEzwMTKcNxGCN9_z6SZg/view?usp=sharing" target="_blank">Slide</a>
+  <a href="https://drive.google.com/file/d/1oFiBVkUlOMCSk4fGzbaef2frnnsLY-9k/view?usp=sharing" target="_blank">Poster</a> |         
+  <a href="https://drive.google.com/file/d/197ZdZyip5VN12r6hvpgihKFg_nMYxPmS/view?usp=sharing" target="_blank">Slide</a>
   </p>
   
   <p>
