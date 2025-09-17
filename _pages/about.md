@@ -38,7 +38,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 [September 2024] Started my first full-time job as an <b>Applied Scientist II (Level 5)</b> at <a href="https://aws.amazon.com/aws-supply-chain/" target="_blank">AWS Supply Chain</a> in Bellevue, WA.
 
-[August 2024] Successfully defended my Ph.D. Thesis on <a href="https://drive.google.com/file/d/1aTN9l9b9udvf5-YbBfaRq1J-idDS4MQF/view?usp=sharing" target="_blank">Efficient Learning for Sensor Time Series in Label Scarce Applications</a>.
+[August 2024] Successfully defended my Ph.D. Thesis on <a href="https://escholarship.org/content/qt1gq3670c/qt1gq3670c.pdf" target="_blank">Efficient Learning for Sensor Time Series in Label Scarce Applications</a>.
 
 [April 2024] First survey on <a href="https://arxiv.org/abs/2402.01801" target="_blank">Large Language Models for Time Series</a> accepted to <b>IJCAI</b> '24.
 
@@ -50,7 +50,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 [September 2023] <a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Physics-Informed Data Denoising for Real-Life Sensing Systems</a> has been accepted to <b>SenSys</b> '23.
 
-[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
+[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. [<a href="https://drive.google.com/file/d/1e8_5cX7YhSN2Ae1iZ6Bm0MKzOVfQgo06/view?usp=sharing" target="_blank">Slide</a>]
 
 <!-- 
 
@@ -58,7 +58,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 -->
 
-[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on <a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">MusicLLM</a>.
+[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on <a href="https://drive.google.com/file/d/1kmJ4__4_o-mCDJlmaPiLyHgLJa7bZK63/view?usp=sharing" target="_blank">MusicLLM</a>.
 
 <!-- 
 
@@ -80,7 +80,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
 
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2022</a> for our proposal on <a href="https://drive.google.com/file/d/1aI9bgZyu5tQu1GE4ABBxM6-sg8pYaEHr/view?usp=sharing" target="_blank">Robust Machine Learning for Mobile Sensing</a>.
 
-[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on <a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Accent Robust Speech Recognition</a>.
+[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group. Worked on <a href="https://drive.google.com/file/d/1eXPHQGtdK8CbHpxqvY-IfZW7URj5ZxUn/view?usp=sharing" target="_blank">Accent Robust Speech Recognition</a>.
 
 <!-- 
 
@@ -155,7 +155,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>MusicLLM: Music Understanding with LLMs</b>
-    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 LLM. [<a href="https://drive.google.com/file/d/16NjpxmD0jBrt5pMuOHI_o3mjkrVfYeRE/view?usp=sharing" target="_blank">Slide</a>]
+    <br>Built an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. The model takes music file and task prompts as inputs and generate text responses. Used audio features from Encodec and an instruction-tuned FLAN-T5 LLM. [<a href="https://drive.google.com/file/d/1kmJ4__4_o-mCDJlmaPiLyHgLJa7bZK63/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
@@ -173,7 +173,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>MARS: Multitask Pre-training for Accent Robust Speech Recognition</b>
-    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data. [<a href="https://drive.google.com/file/d/1v5XzMco14HEKAh4SVnXRpT9d-43vuyHQ/view?usp=sharing" target="_blank">Slide</a>]
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of data. [<a href="https://drive.google.com/file/d/1eXPHQGtdK8CbHpxqvY-IfZW7URj5ZxUn/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
@@ -191,7 +191,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
-    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification. [<a href="https://drive.google.com/file/d/1xYY4_AVjEUNKewAl1_pKIeD9b8Viq_qc/view?usp=sharing" target="_blank">Slide</a>]
+    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification. [<a href="https://drive.google.com/file/d/1fT58gAvh4jt0ENnt8dKwEhrldlnHgIkS/view?usp=sharing" target="_blank">Slide</a>]
     </p>
   </div>
   <div class="archive__proj__left">
@@ -214,7 +214,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
     <a href="https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/" target="_blank">Press Release</a> | 
     <a href="https://aws.amazon.com/blogs/aws/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/" target="_blank">Blog</a> |
     <a href="https://docs.aws.amazon.com/redshift/latest/dg/r_explain_model_function.html" target="_blank">Documentation</a> |
-    <a href="https://drive.google.com/file/d/1e3QTifTlU5NSxTqWGnoqKHW8te_6CR3x/view?usp=sharing" target="_blank">Slide</a>
+    <a href="https://drive.google.com/file/d/1avk95bppTKFGdx5GxTeqS7uQI7hgwqgl/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
@@ -251,7 +251,7 @@ To learn more about my work, please look into my [projects](https://ranakroychow
   <div class="archive__proj__right">
     <p>
     <b>Context Aware Learning for IoT</b>
-    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/14d1kru9p1PDWbI7omB-_u5BUJoXxHLig/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/13UYH4H2oTrfXzrMMg3dcoYQ-K2kzOLBw/view?usp=sharing" target="_blank">Slide</a>].
+    <br> Worked on two projects: 1) <b>PILOT</b>: Integrated physics-based constraints to improve data denoising for Inertail Navigation, CO<sub>2</sub> Monitoring, and Air Handling in HVAC Control System [<a href="https://dl.acm.org/doi/10.1145/3625687.3625811" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/10jyLa-VT83_g0e4CWePOPcr68ohdNItH/view?usp=sharing" target="_blank">Slide</a>], 2) <b>ZeroHAR</b>: Used sensor environment knowledge and fine-grained biomechanical information from LLMs to improve Zero-Shot Wearable Human Action Recognition [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33762" target="_blank">Paper</a> | <a href="https://drive.google.com/file/d/13UYH4H2oTrfXzrMMg3dcoYQ-K2kzOLBw/view?usp=sharing" target="_blank">Slide</a>].
     </p>
   </div>
   <div class="archive__proj__left">
@@ -271,8 +271,8 @@ To learn more about my work, please look into my [projects](https://ranakroychow
     <br>Innovated a data dimensionality reduction algorithm for streaming data, that uses a data-driven heuristic to learn a robust, noise-resilient eigenspace. Algorithm proven experimentally by spectral analysis and Bhattacharyya Distance.
     <br> <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Conference</a> | 
     <a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">Journal</a> | 
-    <a href="https://drive.google.com/file/d/1egtI36BpcMcWlHpLzvaVp1D85bdDMztM/view?usp=sharing" target="_blank">Poster</a> |
-    <a href="https://drive.google.com/file/d/1rWBrtD7FIVRe3HoCEbOzgAo7X62u-Hgs/view?usp=sharing" target="_blank">Slide</a>
+    <a href="https://drive.google.com/file/d/1cy_b4FJxq46EIz6CcqFgqOL7rqEdYbHo/view?usp=sharing" target="_blank">Poster</a> |
+    <a href="https://drive.google.com/file/d/1Bp8t8QSH0j2yuX02XqxJYv1L4so__bIr/view?usp=sharing" target="_blank">Slide</a>
     </p>
   </div>
   <div class="archive__proj__left">
